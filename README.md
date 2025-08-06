@@ -6,4 +6,6 @@ It means they are going to pick one project from rank03 and rank02 and they will
 
 You have to be prepared for the review 💪🏻, revise all projects and make sure you understand everything in it.
 
-Make sure also to understand the makefile and all it's targets and commands.
+Make sure also to understand the makefile and all it's targets and commands as well.
+
+Best of Luck for who's going to have the review 🔥🔥 be prepared everyone you can do it.
